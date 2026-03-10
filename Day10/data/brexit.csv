@@ -1,0 +1,19 @@
+vote,location,count
+Right,total,664
+Wrong,total,787
+Don’t know,total,188
+Right,london,63
+Wrong,london,110
+Don’t know,london,24
+Right,rest_of_south,241
+Wrong,rest_of_south,257
+Don’t know,rest_of_south,49
+Right,midlands_wales,145
+Wrong,midlands_wales,152
+Don’t know,midlands_wales,57
+Right,north,176
+Wrong,north,176
+Don’t know,north,48
+Right,scot,39
+Wrong,scot,92
+Don’t know,scot,10
